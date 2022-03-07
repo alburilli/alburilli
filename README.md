@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alburilli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  ## Tecnologias que eu uso no meu dia
+  
   <div style="display: inline_block"><br>
   <i class="devicon-java-plain colored"></i>
  <img align="center" alt="alburilli-node"
